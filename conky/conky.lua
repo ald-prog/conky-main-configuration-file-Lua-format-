@@ -3,7 +3,7 @@
 -- Type: Lua helper functions for Conky
 -- By Arnold
 -- Last modified: 2026-05-15
--- Version: 2
+-- Version: 2.0
 -- -------------------------------------------------------------------
 -- Changes from v1:
 --   * Fixed indentation (was broken from cascading editor paste)
